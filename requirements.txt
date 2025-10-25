@@ -9,8 +9,18 @@ uvicorn
 joblib
 notebook
 
-# Grid search, model comparison, and advanced ML
+# Advanced ML algorithms
 xgboost
 lightgbm
 catboost
+
+# Imbalanced-learn for SMOTE and similar techniques
 imblearn
+
+# Code quality and security tools (for Makefile targets)
+flake8
+pylint
+black
+isort
+pytest
+bandit
