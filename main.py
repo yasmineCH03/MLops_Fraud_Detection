@@ -10,6 +10,7 @@ Bonnes pratiques appliquées :
 - Documentation claire de chaque fonction.
 
 Auteurs : yasmineCH03
+test : github actions
 """
 
 import argparse
